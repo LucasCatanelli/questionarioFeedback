@@ -54,5 +54,6 @@ int main() {
 
     printf("O seu feedback foi registrado com sucesso. Muito Obrigado!\n");
 
+	system ("pause");
     return 0;
 }
